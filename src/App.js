@@ -14,7 +14,7 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route exact path = "/" element = {<Home />} />
-          <Route exact path = "/buy" element = {< Buy />} />
+          <Route exact path = "/buy" element = {<Buy />} />
           <Route exact path = "/sell" element = {<Sell />} />
           <Route exact path = '/rent' element = {<Rent/>} />
         </Routes>

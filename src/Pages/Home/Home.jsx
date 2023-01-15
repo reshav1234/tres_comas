@@ -2,6 +2,7 @@ import React from 'react'
 import './Home.css'
 import Contacts from '../Contacts/Contacts'
 
+
 const Home = () => {
   return (
     <>
@@ -29,9 +30,10 @@ const Home = () => {
                     <input type="text" placeholder="Search"></input>
                 </form>
             </div>
-
+            
         </section>
         <Contacts />
+        
         
     </>
   )

@@ -1,18 +1,14 @@
-import React from "react";
-import Records from "records.json"
+import React from 'react'
 
-function Buy() {
-    return (
-        <div className="Buy">
-            <div className="post">
-                {
-                    Data.map(post=>{
-                        
+const  Buy = () => {
+  return (
+    <>
+        <h1>
+            Buy your favourite plot.
+        </h1>
 
-                    })
-                }
-            </div>
-
-        </div>
-    )
+    </>
+  )
 }
+
+export default Buy

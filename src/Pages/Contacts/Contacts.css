@@ -1,7 +1,6 @@
 .Footer
 {
     height: 30vh;
-    width: 95%;
     padding: 40px;
     background-color: black;
     position:relative;
@@ -9,9 +8,9 @@
 }
 .Links
 {
+    height: 20px;
     color: aliceblue;
     text-align: center;
-    margin-top:0.5rem;
 }
 .Links svg
 {
@@ -29,4 +28,12 @@
     color: aliceblue;
     display: flex;
     justify-content: space-between;
+}
+.footer-mid
+{
+    margin-top: 70px;
+}
+.footer-left img
+{   
+    border-radius: 50%;
 }
