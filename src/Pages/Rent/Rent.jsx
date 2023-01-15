@@ -2,7 +2,9 @@ import React from 'react'
 
 const Rent = () => {
   return (
-    <div>Rent</div>
+    <h1>
+      Rent affordable houses and plots from here.
+    </h1>
   )
 }
 

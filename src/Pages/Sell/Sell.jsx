@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sell = () => {
   return (
-    <div>Sell</div>
+    <h1> Sell your plot here.</h1>
   )
 }
 
