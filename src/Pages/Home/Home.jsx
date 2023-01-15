@@ -1,8 +1,6 @@
 import React from 'react'
 import './Home.css'
 import Contacts from '../Contacts/Contacts'
-import Photos from '../Photos/buysell.png'
-import Pic from '../Photos/search.png'
 import kirtipur from '../Photos/kirtipur.png'
 
 const Home = () => {
@@ -21,7 +19,7 @@ const Home = () => {
                         <a className="navlink" href="/rent" >Rent</a>
                     </li>
                     <li className="navitem">
-                        <a className="navlink" href="/aboutus">About Us</a>
+                        <a className="navlink" href="/map">Map</a>
                     </li>
                 </ul>
                 
