@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import Contacts from '../Contacts/Contacts'
-import kirtipur from '../Photos/kirtipur.png'
+
 
 const Home = () => {
   return (
@@ -31,9 +31,7 @@ const Home = () => {
                     <input type="text" placeholder="Search"></input>
                 </form>
             </div>
-            <section className = "kirtipur">
-                <img src = {kirtipur} alt = "image" />
-            </section>
+           
         </section>
         <Contacts />
         
