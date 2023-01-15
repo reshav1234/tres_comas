@@ -1,6 +1,8 @@
 import React from 'react'
 import './Home.css'
 import Contacts from '../Contacts/Contacts'
+import Photos from '../Photos/buysell.png'
+import Pic from '../Photos/search.png'
 import kirtipur from '../Photos/kirtipur.png'
 
 const Home = () => {

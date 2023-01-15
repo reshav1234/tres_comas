@@ -61,16 +61,18 @@
 {
   width: "100%";
   max-width: 400px;
+  height: 60px;
   align-items: center;
   display:flex;
   border-radius: 60px;
-  padding: 10px 20px;
+  padding: 20px 20px;
   background-color: rgba(160, 155, 155, 0.2);
 }
 .search-bar input
 {
   background: transparent;
   flex: 1;
+  height: 50px;
   border: 0;
   outline: none;
   padding: 24px 20px;
@@ -85,7 +87,7 @@
 {
   border: 0;
   border-radius:50%;
-  width:60px;
+  width: 60px;
   height: 60px;
   background: #58629b;
   cursor: pointer; 
