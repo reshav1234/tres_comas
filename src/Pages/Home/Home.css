@@ -75,10 +75,7 @@
   font-size: 20px;
   color: #929297;
 }
-.search-bar button
-{
-  width: 20px;
-}
+
 .search-bar button
 {
   border: 0;
@@ -95,4 +92,9 @@
   height: 80vh;
   padding:  2rem;
   width: 170vh;
+}
+
+.logo img
+{
+  width: 184vh;
 }
