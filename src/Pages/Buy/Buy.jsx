@@ -1,13 +1,11 @@
 import React from 'react'
 
-const  Buy = () => {
+const Buy = () => {
   return (
     <>
         <h1>
-            Buy your favourite plot.
+            Buy/Sell your favourite plot.
         </h1>
-        
-
     </>
   )
 }
