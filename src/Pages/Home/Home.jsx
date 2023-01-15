@@ -19,6 +19,10 @@ const Home = () => {
                         <a className="navlink" href="/map">Map</a>
                     </li>
                 </ul>
+
+                
+            </div>
+
             <div className = "search-bar">
                 <h1>Location</h1>
                 <form>
